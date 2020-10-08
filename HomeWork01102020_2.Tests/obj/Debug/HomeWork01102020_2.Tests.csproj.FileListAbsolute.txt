@@ -1,0 +1,16 @@
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\bin\Debug\HomeWork01102020_2.Tests.dll
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\bin\Debug\HomeWork01102020_2.Tests.pdb
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\bin\Debug\HomeWork01102020_2.Common.dll
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\bin\Debug\HomeWork01102020_2.Common.pdb
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\obj\Debug\HomeWork01102020_2.Tests.csprojAssemblyReference.cache
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\obj\Debug\HomeWork01102020_2.Tests.csproj.CoreCompileInputs.cache
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\obj\Debug\HomeWork01102020_2.Tests.csproj.CopyComplete
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\obj\Debug\HomeWork01102020_2.Tests.dll
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Tests\obj\Debug\HomeWork01102020_2.Tests.pdb

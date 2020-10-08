@@ -1,0 +1,10 @@
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.App\bin\Debug\HomeWork01102020_2.App.exe.config
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.App\bin\Debug\HomeWork01102020_2.App.exe
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.App\bin\Debug\HomeWork01102020_2.App.pdb
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.App\bin\Debug\HomeWork01102020_2.Common.dll
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.App\bin\Debug\HomeWork01102020_2.Common.pdb
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.App\obj\Debug\HomeWork01102020_2.App.csprojAssemblyReference.cache
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.App\obj\Debug\HomeWork01102020_2.App.csproj.CoreCompileInputs.cache
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.App\obj\Debug\HomeWork01102020_2.App.csproj.CopyComplete
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.App\obj\Debug\HomeWork01102020_2.App.exe
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.App\obj\Debug\HomeWork01102020_2.App.pdb

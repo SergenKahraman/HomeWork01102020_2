@@ -1,0 +1,6 @@
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Common\bin\Debug\HomeWork01102020_2.Common.dll
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Common\bin\Debug\HomeWork01102020_2.Common.pdb
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Common\obj\Debug\HomeWork01102020_2.Common.csprojAssemblyReference.cache
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Common\obj\Debug\HomeWork01102020_2.Common.csproj.CoreCompileInputs.cache
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Common\obj\Debug\HomeWork01102020_2.Common.dll
+C:\Users\SERGEN\source\repos\HomeWork01102020_2\HomeWork01102020_2.Common\obj\Debug\HomeWork01102020_2.Common.pdb
